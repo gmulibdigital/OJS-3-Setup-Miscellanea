@@ -1,7 +1,7 @@
 #### Make a submission
 
 ```html
-<p><a href="about/submissions"> <img src="http://\*GMU Lib Image Server\*.gmu.edu/journal/sub.jpg" alt="Make a submission!" /></a></p>
+<a href="about/submissions"> <img src="http://\*GMU Lib Image Server\*.gmu.edu/journal/sub.jpg" alt="Make a submission!" /></a>
 ```
 
 #### Credit for Sponsors
