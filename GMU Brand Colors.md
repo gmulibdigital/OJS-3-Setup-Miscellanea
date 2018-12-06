@@ -3,7 +3,7 @@
 #### Primary Colors
 Color | Hex Code
 ------------ | -------------
-Mason Green 1 | 006633
+Mason Green | 006633
 Mason Gold | FFCC33
 
 #### Secondary Accent Blues  
