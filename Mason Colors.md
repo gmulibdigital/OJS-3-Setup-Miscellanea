@@ -1,5 +1,5 @@
-### GMU Branding Approved Colors
-#### Examples can be found at the <a href="http://https://brand.gmu.edu/visual-identity-and-style/color/" target="_blank" rel="noopener">GMU Branding Guide Website</a>
+#### GMU Branding Approved Colors
+##### Examples and other choices can be found at the <a href="http://https://brand.gmu.edu/visual-identity-and-style/color/" target="_blank" rel="noopener">GMU Branding Guide Website</a>
 
 Mason Green:    006633
 
