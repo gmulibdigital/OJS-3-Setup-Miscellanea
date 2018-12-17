@@ -1,0 +1,10 @@
+/**
+ * small modifications for the Bootstrap3 based Manuscript theme for OJS 3.1x
+ * developed by George Mason University Libraries, Digital Tecnologies and Services and Mason Publishing Group
+ */
+ 
+ .current_issue h2:first-child {
+     margin: 0.5em 0;
+}
+
+.pkp_brand_footer a {max-width:75px}
