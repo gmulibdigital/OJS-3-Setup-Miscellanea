@@ -1,5 +1,5 @@
 ### GMU Branding Approved Colors  
-#### Examples and other choices can be found at the [Mason Branding Website](http://https://brand.gmu.edu/visual-identity-and-style/color/)
+#### Examples and other choices can be found at the [Mason Branding Website](https://brand.gmu.edu/visual-identity-and-style/color/)
 #### Primary Colors
 Color | Hex Code
 ------------ | -------------
